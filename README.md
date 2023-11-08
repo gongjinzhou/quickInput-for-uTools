@@ -22,8 +22,8 @@
 更具体的格式化方式请查看[dayjs文档](https://dayjs.fenxianglu.cn/category/display.html#%E6%A0%BC%E5%BC%8F%E5%8C%96)
 
 数据保存读取函数使用方式：
-${saveData('myKey', 'myValue')}
-${return getData('myKey')}}
+'''${saveData('myKey', 'myValue')}
+${return getData('myKey')}}'''
 
 请享受更加高效的输入体验！
 
